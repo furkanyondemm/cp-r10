@@ -1,0 +1,8 @@
+CP-R10: coverage-targeted temperature transfer
+Copyright 2026 Sakir Furkan Yöndem
+
+The original CP-R10 code, including its QTC wrapper, is licensed under the
+Apache License, Version 2.0. See LICENSE.
+
+Third-party code retains its respective copyright and license notices.
+The downloaded QTC author code is separately attributed in THIRD_PARTY.md.
